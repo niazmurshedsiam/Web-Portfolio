@@ -4,6 +4,9 @@ body{
 }
 h1{
     
+    font-size: 50px;
+}
+h2{
     font-size: 40px;
 }
 .name-highlight{
@@ -37,4 +40,13 @@ h1{
     height: 500px;
     background-image: url("Image/top-banner.png");
     background-repeat: no-repeat;
+}
+
+.middle-banner{
+    height: 500px;
+    background-image: url("Image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+    
 }

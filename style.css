@@ -51,3 +51,35 @@ h2{
 
     
 }
+.single-experience{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+
+}
+.Experience-area{
+    height: 500px;
+    background-image: url("Image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+   
+
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightSalmon,tomato);
+    border-image-slice: 1;
+}
+
+#baby-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+}
